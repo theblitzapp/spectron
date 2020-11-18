@@ -25,7 +25,7 @@
   "license": "MIT",
   "dependencies": {
     "dev-null": "^0.1.1",
-    "chromedriver": "github:theblitzapp/chromedriver#master",
+    "chromedriver": "github:theblitzapp/chromedriver#fixDownloadChromedriverFile",
     "request": "^2.87.0",
     "split": "^1.0.0",
     "webdriverio": "^6.1.20"
